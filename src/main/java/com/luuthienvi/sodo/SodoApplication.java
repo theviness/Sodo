@@ -8,6 +8,7 @@ public class SodoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SodoApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
